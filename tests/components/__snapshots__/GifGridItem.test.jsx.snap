@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <GifGridItem /> Debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="vegeta"
+      src="https://vegeta-sayayin-gif.com/sayanVegeta.jpg"
+    />
+    <p>
+      vegeta
+    </p>
+  </div>
+</div>
+`;
